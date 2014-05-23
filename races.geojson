@@ -166,7 +166,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         -115.3214907646179,
+          -115.3214907646179,
           36.16337918464028
         ]
       }
@@ -239,7 +239,7 @@
         ]
       }
     },
-     {
+    {
       "type": "Feature",
       "properties": {
         "Event": "Ragnar Trail Relays",
@@ -315,7 +315,7 @@
         "Location": "Flat Rock Ranch, TX",
         "Type": "Trail Relay Race",
         "Distance": 200
-        },
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -327,7 +327,7 @@
     {
       "type": "Feature",
       "properties": {
-      "Event": "Ragnar Trail Relays",
+        "Event": "Ragnar Trail Relays",
         "Name": "Appalachians",
         "Location": "Big Bear Lake, WV",
         "Type": "Trail Relay Race",
