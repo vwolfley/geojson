@@ -3,7 +3,14 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Event": "Boston Marathon",
+        "Name": "Boston Marathon",
+        "Location": "Boston, MA",
+        "Type": "Marathon",
+        "Distance": "26.2 miles",
+        "Month": "April"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
