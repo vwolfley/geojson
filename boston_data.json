@@ -1,3 +1,9 @@
+http://www.boston.com/sports/marathon/course/map/
+var milelat = ["42.22977057020397", "42.2364", "42.2423", "42.2522", "42.2587", "42.2706", "42.2732", "42.2788", "42.2819", "42.2831", "42.2831", "42.2874", "42.2953", "42.296", "42.3043", "42.3153", "42.3255", "42.3353", "42.339", "42.338", "42.3362", "42.3371", "42.3386", "42.338", "42.3427", "42.3479", "42.349751151873384"];
+var milelng = ["-71.51820659637451", "-71.5015", "-71.4841", "-71.4708", "-71.4541", "-71.444", "-71.427", "-71.4072", "-71.3903", "-71.372", "-71.3526", "-71.3342", "-71.3161", "-71.2973", "-71.2842", "-71.2706", "-71.2572", "-71.2426", "-71.2285", "-71.2121", "-71.1925", "-71.1727", "-71.1554", "-71.1404", "-71.1187", "-71.1007", "-71.07861936092377"];
+
+var marathon_path = google.maps.geometry.encoding.decodePath("a_w`GxkosLyC}C_EeCqAoB}EaOsBcJmNs_@WcAu@{MG{DNcQi@qGkF}^uA_FaLiXmLo\\iLg^aDaIiIaKsEuCqRwNcWmZ{@wCgUwpAmHgOqDaEmEkCeK_JqDiCkC}AsVmJoIuG_EeIqIaV]mE`Fo_@fDsLIuAwK{YiCuK{Kwl@uQitA}Gsi@QuCu@uPkAoa@u@ea@Uk`@}Eui@DcHrGo`@D_C?uHeBsZsD_i@cFsi@oCcLoKi_@yGsRsYer@sFkViEsU_BmRS_F]q`@f@ki@K{MwBcUoEkQmAwB}TgNuMeNg]}f@qZe[{f@{w@sUyJ{HmIy@uCeBaRwCiMwPoZiDyJiLqJiGcHcLaQaCgBuJyEqLqHeC_CpDiIjAoDx@mGn@u^l@uGl@iCtImTj@qEDoDOiEgCeKE_BjBmMJsBcDkOk@cFGmPmBkNCiE\\_HpA{IPyCLuS`@yCxAoD|EcHp@eBHwB{@}L{Aur@vAaa@qE}RL}MIaBgIwM}@wBqB}J{@}QJw\\ZuElJ}`@pKoQgAwKeRevAa@wQ{@_LyFoZcCiPkV{sAsRodAO{Bk@op@qBwO~G{DqIch");
+
 [
 	{
 		"id": "0",
