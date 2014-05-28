@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Key of Sea",
+        "Address": "1314 N Topsail Dr",
+        "City": "Surf City, NC",
+        "Family": "Rockwoods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52387106418608,
+          34.43867707315609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ava's Excape",
+        "Address": "1313 N Topsail Dr",
+        "City": "Surf City, NC",
+        "Family": "Scotts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52413660287857,
+          34.43897791868065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Peaceful Cottage",
+        "Address": "1119 N Shore Dr",
+        "City": "Surf City, NC",
+        "Family": "Rapiers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52671957015991,
+          34.43664191321905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Starboard",
+        "Address": "1426 N New River Dr",
+        "City": "Surf City, NC",
+        "Family": "Greg Sherwoods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52182990312576,
+          34.440528583210856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blistered",
+        "Address": "4008 4th St",
+        "City": "Surf City, NC",
+        "Family": "Allens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.51626968383789,
+          34.44464069115919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sunshine Trio",
+        "Address": "513 N Shore Dr",
+        "City": "Surf City, NC",
+        "Family": "Smiths"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53672957420349,
+          34.4309387770883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Our Catch",
+        "Address": "1513-B N New River Inlet Dr",
+        "City": "Surf City, NC",
+        "Family": "Wolfleys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37714886665344,
+          34.512192708370804
+        ]
+      }
+    }
+  ]
+}
