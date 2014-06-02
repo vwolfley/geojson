@@ -112,6 +112,44 @@
           34.441479761192475
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LDS Church",
+        "Ward": "Hampstead Ward",
+        "time": "10am",
+        "address": "102 Deerfield Dr",
+        "City": "Hampstead",
+        "State": "NC",
+        "zip": "28443-2134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7158796787262,
+          34.361717992490554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LDS Raleigh North Carolina Temple",
+        "address": "574 Bryan Dr",
+        "city": "Apex",
+        "state": "NC",
+        "zip": "27502-4127",
+        "phone": "(919) 362-4135"
+        "website": "https://www.lds.org/church/temples/raleigh-north-carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86154770851135,
+          35.732134671627584
+        ]
+      }
     }
   ]
 }
