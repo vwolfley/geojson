@@ -405,6 +405,23 @@
           34.784201442718604
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carolina Beach Boardwalk",
+        "address": "Carolina Beach Ave S. & Harper Ave",
+        "city": "Carolina Beach",
+        "phone": "(910) 458-8434",
+        "website": "http://www.visitcarolinabeachnc.com/things-to-do/carolina-beach-boardwalk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89239048957825,
+          34.03442593667515
+        ]
+      }
     }
   ]
 }
