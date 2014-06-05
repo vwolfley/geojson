@@ -422,6 +422,91 @@
           34.03442593667515
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "Name": "Goodwill",
+        "address": "709 S Kerr Ave",
+        "city": "Wilmington,",
+        "phone": "(910) 791-2764",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.88552403450012,
+          34.223974169409495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Goodwill",
+        "address": "5662 Carolina Beach Rd",
+        "city": "Wilmington,",
+        "phone": "(910) 794-9650",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89607048034668,
+          34.13328064213726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Goodwill",
+        "address": "1113 Western Blvd",
+        "city": "Jacksonville",
+        "phone": "(910) 455-2025",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39305973052977,
+          34.779901238959795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Souvenir Shop Gator",
+        "address": "13705 NC Hwy. 50",
+        "city": "Surf City",
+        "phone": "(910) 329-0241",
+        "website": "http://www.roadsideamerica.com/tip/9904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.56113767623901,
+          34.445662603745426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Giant Shark",
+        "address": "Hwy 210",
+        "city": "Sneads Ferry",
+        "phone": "(910) 327-1222",
+        "website": "http://www.roadsideamerica.com/tip/30533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43435502052307,
+          34.526756359126644
+        ]
+      }
     }
   ]
 }
