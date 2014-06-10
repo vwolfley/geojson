@@ -603,6 +603,26 @@
           34.526756359126644
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Plastic Flamingo Petting Zoo",
+        "Address": "1101 Cedar Point Blvd",
+        "City": "Cedar Point, NC",
+        "Phone": "",
+        "Website": "http://www.roadsideamerica.com/tip/41524",
+        "Family": "",
+        "Zip": "",
+        "color": "purple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08147555589676,
+          34.68418801060527
+        ]
+      }
     }
   ]
 }
