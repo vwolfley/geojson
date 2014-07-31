@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Topsail Island",
+        "City": "Topsail Island",
+        "State": "North Carolina",
+        "Type": "Sherwood Family Reunion",
+        "Date": "July 4 - July 10",
+        "Year": 2014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52099305391312,
+          34.441486397279895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Palmyra",
+        "City": "Palmyra",
+        "State": "New York",
+        "Type": "Sherwood Family Reunion",
+        "Date": 0,
+        "Year": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.23520636558533,
+          43.041092658404295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Pigeion Forge",
+        "City": "Pigeon Forge",
+        "State": "Tennessee",
+        "Type": "Sherwood Family Reunion",
+        "Year": 0,
+        "Date": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55497360229492,
+          35.78899412942874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Yellowstone National Park",
+        "City": "Yellowstone",
+        "State": "Wyoming",
+        "Type": "Family Vacation",
+        "Date": 0,
+        "Year": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.57825088500977,
+          44.4147773951185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Lopez Island",
+        "City": "Lopez",
+        "State": "Washington",
+        "Type": "Family Vacation",
+        "Date": 0,
+        "Year": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.88014888763428,
+          48.55300657122847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Pacific Beach",
+        "City": "Pacific Beach",
+        "State": "Washington",
+        "Type": "Sherwood Family Reunion",
+        "Date": 0,
+        "Year": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.20337915420531,
+          47.21084494512128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Woodland Park",
+        "City": "Woodland Park",
+        "State": "Colorado",
+        "Type": "Family Vacation",
+        "Date": 0,
+        "Year": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.14383792877197,
+          39.16594613786319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "G & G Jensen",
+        "City": "Littleton",
+        "State": "Colorado",
+        "Type": "Family Vacation",
+        "Date": 0,
+        "Year": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.96497213840485,
+          39.57896514450337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Cholla Bay",
+        "City": "Cholla Bay",
+        "State": "Mexico",
+        "Type": "Family Vacation",
+        "Date": 0,
+        "Year": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.62628102302551,
+          31.339407082193834
+        ]
+      }
+    }
+  ]
+}
