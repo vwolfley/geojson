@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Phoenix Arizona Temple",
+        "Number": 144,
+        "Address": "5220 W Pinnacle Peak Rd",
+        "Announced": "May 24th, 2008",
+        "Site Dedication": "June 4th, 2011",
+        "Site Dedication by": "Ronald A. Rasband",
+        "Groundbreaking": "June 4th, 2011",
+        "Open House": "October 10th - November 1st, 2014",
+        "Cultural Celebration": "November 15th, 2014",
+        "Dedicated": "November 16th 2014",
+        "Size": "58,000 sqft",
+        "Link": "http://www.ldschurchtemples.com/phoenix/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1722662448883,
+          33.69861865784715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mesa Arizona Temple",
+        "Number": 7,
+        "Address": "101 S LeSueur ",
+        "Announced": "October 3rd 1919",
+        "Site Dedication": "November 28th, 1921",
+        "Site Dedication by": "Heber J. Grant",
+        "Groundbreaking": "April 25th, 1922",
+        "Open House": "",
+        "Cultural Celebration": "None",
+        "Dedicated": "October 23-26, 1927",
+        "Size": "113,916 sqft",
+        "Link": "http://www.ldschurchtemples.com/mesa/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.81966841220856,
+          33.412855934495056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gilbert Arizona Temple",
+        "Number": 142,
+        "Address": "3301 S Greenfield Rd",
+        "Announced": "April 26th 2008",
+        "Site Dedication": "November 13th, 2010",
+        "Site Dedication by": "Claudio R. M. Costa",
+        "Groundbreaking": "November 13th, 2010",
+        "Open House": "January 18th - February 15th, 2014",
+        "Cultural Celebration": "March 1st, 2014",
+        "Dedicated": "March 2nd, 2014",
+        "Size": "85,326 sqft",
+        "Link": "http://www.ldschurchtemples.com/gilbert/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7374050617218,
+          33.291256644065015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gila Valley Arizona Temple",
+        "Number": 132,
+        "Address": "5291 W Highway 79",
+        "Announced": "April 26th, 2008",
+        "Site Dedication": "February 14th, 2009",
+        "Site Dedication by": "Neil L. Andersen",
+        "Groundbreaking": "February 14th, 2009",
+        "Open House": "April 23rd - May 15th, 2010",
+        "Cultural Celebration": "?",
+        "Dedicated": "May 23rd, 2010",
+        "Size": "18,561 sqft",
+        "Link": "http://www.ldschurchtemples.com/gilavalley/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.78997647762297,
+          32.862988794970356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Snowflake Arizona Temple",
+        "Number": 108,
+        "Address": "1875 W Canyon Dr",
+        "Announced": "April 2nd, 2000",
+        "Site Dedication": "September 23rd, 2000",
+        "Site Dedication by": "Rex D. Pinegar",
+        "Groundbreaking": "September 23rd, 2000",
+        "Open House": "February 2nd - 16th, 2002",
+        "Cultural Celebration": "?",
+        "Dedicated": "March 3rd, 2002",
+        "Size": "18,621 sqft",
+        "Link": "http://www.ldschurchtemples.com/snowflake/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.11160016059875,
+          34.50252050731145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tucson Arizona Temple",
+        "Number": 0,
+        "Address": 0,
+        "Announced": "October, 6th, 2012",
+        "Site Dedication": 0,
+        "Site Dedication by": 0,
+        "Groundbreaking": 0,
+        "Open House": 0,
+        "Cultural Celebration": 0,
+        "Dedicated": 0,
+        "Size": 0,
+        "Link": "http://www.ldschurchtemples.com/tucson/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.94911456108093,
+          32.33836343870453
+        ]
+      }
+    }
+  ]
+}
