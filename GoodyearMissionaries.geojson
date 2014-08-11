@@ -9,7 +9,8 @@
         "Ward": "Cortie Sierra",
         "Mission": "California Long Beach Mission",
         "Country": "USA",
-        "Date": "January 2013 - January 2015"
+        "Date": "January 2013 - January 2015",
+        "Current": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +28,8 @@
         "Ward": "Litchfield Park",
         "Mission": "Montana Billings Mission",
         "Country": "USA",
-        "Date": "March 2013 - March 2015"
+        "Date": "March 2013 - March 2015",
+        "Current": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +47,8 @@
         "Ward": "Cortie Sierra",
         "Mission": "New York New York South Mission",
         "Country": "USA",
-        "Date": "March 2013 - March 2015"
+        "Date": "March 2013 - March 2015",
+        "Current": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +66,8 @@
         "Ward": "Goodyear",
         "Mission": "New Zealand Auckland Mission",
         "Country": "New Zealand",
-        "Date": "September 2013 - September 2015"
+        "Date": "September 2013 - September 2015",
+        "Current": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +85,8 @@
         "Ward": "La Loma",
         "Mission": "Indonesia Jakarta Mission",
         "Country": "Indonesia",
-        "Date": "August 2014 - August 2016"
+        "Date": "August 2014 - August 2016",
+        "Current": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +104,8 @@
         "Ward": "Savannah",
         "Mission": "Brazil Florianopolis Mission",
         "Country": "Brazil",
-        "Date": 0
+        "Date": 0,
+        "Current": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +123,8 @@
         "Ward": "Dreaming Summitt",
         "Mission": "Argentina Salta Mission",
         "Country": "Argentian",
-        "Date": 0
+        "Date": 0,
+        "Current": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +142,8 @@
         "Ward": "Savannah",
         "Mission": "Mexico Puebla Mission",
         "Country": "Mexico",
-        "Date": 0
+        "Date": 0,
+        "Current": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -153,7 +161,8 @@
         "Ward": "Palm Valley",
         "Mission": "Samoa Apia Mission",
         "Country": "Samoa",
-        "Date": 0
+        "Date": 0,
+        "Current": "Yes"
       },
       "geometry": {
         "type": "Point",
